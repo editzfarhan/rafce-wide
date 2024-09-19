@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'next/link';
+
 const Footer = () => {
   return (
     <div className="fixed bottom-0 left-0 w-full flex justify-center p-4 bg-gray-800 text-white">
